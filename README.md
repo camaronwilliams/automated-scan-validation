@@ -11,6 +11,11 @@ I executed an automated DAST scan using OWASP ZAP, preserved raw scanner output,
 - Host: Personal MacBook (local-only)
 - Deployment: Docker
 - Tools: OWASP ZAP (automated scan), Burp Suite (manual validation), browser dev tools
+<img width="813" height="597" alt="Screenshot 2026-01-13 at 11 10 37 PM" src="https://github.com/user-attachments/assets/94e2c4ec-7adc-4305-a2a7-9f0ef969241f" />
+<img width="809" height="613" alt="Screenshot 2026-01-13 at 11 13 42 PM" src="https://github.com/user-attachments/assets/bed22c13-c9de-40cd-9d36-1d571e3c7dba" />
+<img width="816" height="619" alt="Screenshot 2026-01-13 at 11 21 10 PM" src="https://github.com/user-attachments/assets/e29880d9-0093-4bd7-b00d-6f4436d45d5f" />
+<img width="824" height="605" alt="Screenshot 2026-01-13 at 11 21 23 PM" src="https://github.com/user-attachments/assets/6d390cb5-1f92-448c-aca8-5b67dedb903f" />
+<img width="806" height="611" alt="Screenshot 2026-01-13 at 11 21 30 PM" src="https://github.com/user-attachments/assets/b3519376-323c-4426-95e0-025579426ca3" />
 
 ## Scope
 - Automated crawl + active scan (OWASP ZAP)
